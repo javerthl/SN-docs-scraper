@@ -16,9 +16,11 @@ Python 3.11+
    Type: ```python3 --version```
 3. Create a folder called "servicenow_scraper" to store your scraped documents (also a good place to store your scripts.)
    ```mkdir servicenow_scraper```
+   
    ```cd servicenow_scraper```
-4. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
-   ```python3 -m venv venv``` \n
+5. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
+   ```python3 -m venv venv```
+   
    ```source venv/bin/activate```
-5. Your terminal should now show: ```(venv) %```
+7. Your terminal should now show: ```(venv) %```
    
