@@ -1,5 +1,5 @@
 # SN-docs-scraper
-This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. All the scripts are written in Python. 
+This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. All the scripts are written in Python. This was run in MacOS. 
 
 # Pre-requisites
 Python 3.11+
@@ -11,5 +11,14 @@ Python 3.11+
 4. Run the cleanup script(s) that removes non-relevant text such as the table of contents and navigation text contained on every page.
 
 ## Detailed steps
-1. Open terminal and check that Python is installed.
-   ```python3 --version```
+1. Install Python 3.11. 
+2. Open terminal and check that Python is installed.
+   Type: ```python3 --version```
+3. Create a folder called "servicenow_scraper" to store your scraped documents (also a good place to store your scripts.)
+   ```mkdir servicenow_scraper```
+   ```cd servicenow_scraper```
+4. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
+   ```python3 -m venv venv```
+   ```source venv/bin/activate```
+5. Your terminal should now show: ```(venv) %```
+   
