@@ -18,7 +18,7 @@ Python 3.11+
    ```mkdir servicenow_scraper```
    ```cd servicenow_scraper```
 4. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
-   ```python3 -m venv venv```
+   ```python3 -m venv venv``` \n
    ```source venv/bin/activate```
 5. Your terminal should now show: ```(venv) %```
    
