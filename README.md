@@ -23,11 +23,12 @@ Python 3.11+
    
    ```source venv/bin/activate```
 6. Your terminal should now show: ```(venv) %```
-7. Install dependencies. If you haven't yet, youll need to install pip too. Visit https://pip.pypa.io/en/stable/installation/ to learn more. 
+7. Install dependencies. If you haven't yet, youll need to install pip too. Visit https://pip.pypa.io/en/stable/installation/ to learn more.
+   
    ```pip install playwright beautifulsoup4``` (or pip3). 
 
    ```python3 -m playwright install chromium```
-8. Run the "scraper" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
+9. Run the "scraper" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
    ```python3 scraper.py```
    8a. Replace the URL with the parent URL that you want to scrape. 
 10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
