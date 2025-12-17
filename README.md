@@ -22,7 +22,7 @@ Python 3.11+
    ```python3 -m venv venv```
    
    ```source venv/bin/activate```
-5. Your terminal should now show: ```(venv) %```
+5. Your terminal should now show: ```(venv) %``` You want to run the following commands in the venv in your directory.
 6. Install dependencies. If you haven't yet, youll need to install pip too. Visit https://pip.pypa.io/en/stable/installation/ to learn more.
    
    ```pip install playwright beautifulsoup4``` (or pip3). 
