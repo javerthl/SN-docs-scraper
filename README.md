@@ -28,14 +28,15 @@ Python 3.11+
    ```pip install playwright beautifulsoup4``` (or pip3). 
 
    ```python3 -m playwright install chromium```
+   
 8. Run the "scraper" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
    ```python3 scraper.py```
    8a. Replace the URL with the parent URL that you want to scrape. 
-9. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
+10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
     ```python3 combine.py```
-10. Now you should have one large text file. Now let's clean it up. This removes text such as the table of contents and miscellaneous navigation text like "Login here" that was scraped from every page. Removing these elements will improve the search quality of your project. Run the "cleanup" script.
+11. Now you should have one large text file. Now let's clean it up. This removes text such as the table of contents and miscellaneous navigation text like "Login here" that was scraped from every page. Removing these elements will improve the search quality of your project. Run the "cleanup" script.
     ```python3 cleanup.py```
-11. You now have a text file that is ready to be used in a search or LLM project.
+12. You now have a text file that is ready to be used in a search or LLM project.
 
 ## Optional - Prompt for Claue Agent
 The output text file of the scraped ServiceNow documentation can be used in LLM projects such as for Claude to create a Q&A bot to answer questions based on the scraped documentation. See "prompt.txt" for the prompt used to create the Q&A bot. 
