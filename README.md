@@ -1,6 +1,13 @@
 # SN-docs-scraper
 This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. All the scripts are written in Python. This was run in MacOS. 
 
+## What's included in the repo
+- A scraping script
+- A combine + cleaning script
+- Example text of a single docs page that was scraped from ServiceNow's documentation on MCP client: https://www.servicenow.com/docs/bundle/zurich-intelligent-experiences/page/administer/model-context-protocol-client/reference/mcp-client.html
+- Example of combined and cleaned text file, final result.
+- Example prompt that can be used a Claude Q&A agent using the text file as context. 
+
 # Pre-requisites
 Python 3.11+
 
