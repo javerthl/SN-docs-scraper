@@ -44,13 +44,14 @@ PIP
    ```python3 scrape_servicenow_docs.py```
 
 10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. This script also removes text such as the table of contents in the beginning and miscellaneous navigation text like "Login" that was captured in every page. Removing these elements will improve the search quality of your project. Run the "combine_and_clean_servicenow_scrape_docs.py" script.
+
     In lines 64 and 65, enter the folder name where your docs are located and a filename for your final output respectively.
 
     ```python3 combine_and_clean_servicenow_scrape_docs.py```
 
     You'll notice that the source file name acts as a delimiter between the combined pages. This is useful for Q&A agent citations. 
 
-11. You now have a text file that is ready to be used in a search or LLM project.
+12. You now have a text file that is ready to be used in a search or LLM project.
 
 ## Optional - Prompt for Claude Agent
 The output text file of the scraped ServiceNow documentation can be used in LLM projects such as for Claude to create a Q&A bot to answer questions based on the scraped documentation. See "prompt.txt" for the prompt used to create the Q&A bot. 
