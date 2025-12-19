@@ -14,7 +14,7 @@ Python 3.11+
 PIP
 
 # High-level steps
-1. Install Python and Beautiful Soup and Playwright packages
+1. Install Python, PIP, and Beautiful Soup and Playwright packages
 2. Run the scraper script with the desired ServiceNow docs URL. The output is a folder(s) of text files per page that was scraped, following the URL structure. 
 3. Run the combine and clean script that combines all the text files into a single file and removes non-relevant text such as the table of contents and navigation text contained on every page.
 
