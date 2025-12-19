@@ -45,6 +45,6 @@ PIP
     ```python3 cleanup.py```
 14. You now have a text file that is ready to be used in a search or LLM project.
 
-## Optional - Prompt for Claue Agent
+## Optional - Prompt for Claude Agent
 The output text file of the scraped ServiceNow documentation can be used in LLM projects such as for Claude to create a Q&A bot to answer questions based on the scraped documentation. See "prompt.txt" for the prompt used to create the Q&A bot. 
    
