@@ -3,6 +3,7 @@ This repo contains scripts that can traverse and scrape data from servicenow.com
 
 # Pre-requisites
 Python 3.11+
+
 PIP
 
 # High-level steps
