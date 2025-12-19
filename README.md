@@ -33,17 +33,18 @@ PIP
 
 9. Run the "scrape_servicenow_docs.py" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
 
+   In lines 8 and 9, enter your starting URL and the base prefix for which to start navigating through the doc tree and scraping. 
+
    ```python3 scrape_servicenow_docs.py```
 
-   In lines 8 and 9, enter your starting URL and the base prefix for which to start navigating through the doc tree and scraping. 
 10. Replace the URL with the parent URL that you want to scrape. 
-11. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
+11. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. This script also removes text such as the table of contents in the beginning and miscellaneous navigation text like "Login" that was captured in every page. Removing these elements will improve the search quality of your project. Run the "combine_and_clean_servicenow_scrape_docs.py" script.
 
-    ```python3 combine.py```
-12. Now you should have one large text file. Now let's clean it up. This removes text such as the table of contents and miscellaneous navigation text like "Login here" that was scraped from every page. Removing these elements will improve the search quality of your project. Run the "cleanup" script.
+   In lines 64 and 65, enter the folder name where your docs are located and a filename for your final output respectively. 
 
-    ```python3 cleanup.py```
-14. You now have a text file that is ready to be used in a search or LLM project.
+    ```python3 combine_and_clean_servicenow_scrape_docs.py```
+
+12. You now have a text file that is ready to be used in a search or LLM project.
 
 ## Optional - Prompt for Claude Agent
 The output text file of the scraped ServiceNow documentation can be used in LLM projects such as for Claude to create a Q&A bot to answer questions based on the scraped documentation. See "prompt.txt" for the prompt used to create the Q&A bot. 
