@@ -19,7 +19,7 @@ PIP
 3. Run the combine and clean script that combines all the text files into a single file and removes non-relevant text such as the table of contents and navigation text contained on every page.
 
 ## Detailed steps
-1. Install Python 3.11. 
+1. Install Python 3.11. Install to PATH when prompted. 
 2. Open terminal and check that Python is installed.
    Type: ```python3 --version```
 3. Create a folder called "servicenow_scraper" to store your scraped documents (also a good place to store your scripts.)
