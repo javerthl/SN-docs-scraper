@@ -49,6 +49,8 @@ PIP
 
    ```python3 combine_and_clean_servicenow_scrape_docs.py```
 
+   You'll notice that the source file name acts as a delimiter between the combined pages. This is useful for Q&A agent citations. 
+
 11. You now have a text file that is ready to be used in a search or LLM project.
 
 ## Optional - Prompt for Claude Agent
