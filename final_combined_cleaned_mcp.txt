@@ -1,0 +1,312 @@
+--- DOCUMENT START: ./servicenow_docs_mcpc/docs/bundle/zurich-intelligent-experiences/page/administer/model-context-protocol-client/concept/add-mcp-client-on-ai-agent-studio.txt ---
+
+Configure Model Context Protocol Client
+Add an MCP server in AI Agent Studio
+Current page
+Table of Contents
+Add an
+MCP
+server in
+AI Agent Studio
+An
+MCP
+server hosts the APIs and tools required by an AI
+        application to receive and process calls from
+MCP
+clients.
+        The
+MCP
+server
+        governs ingress traffic and
+        promotes secure and efficient access to tools. Adding an
+MCP
+server in the
+AI Agent Studio
+helps you to leverage the
+Model Context Protocol
+as a tool
+        for an AI
+        agent.
+Connecting an
+MCP
+server with the
+AI Agent Studio
+simplifies the integration process, making it easier to discover and invoke services. This connection enhances security and governance, providing a streamlined setup experience for
+                administrators.
+Adding an
+MCP
+server requires you to add an
+MCP
+server in the
+AI Agent Studio
+. You can add an
+MCP
+server
+                with one of the following authentication options:
+OAuth 2.1
+: Add an
+MCP
+server with an authentication code. For more information, see
+Add an MCP server with OAuth 2.1
+.
+Note:
+You can configure an
+MID Server
+to connect with
+MCP Client
+by adding it as an MCP server through OAuth 2.1 configuration and selecting the
+Use MID server
+check box on the respective server's
+                            Connection and Credentials Aliases record. For more information about connecting
+MCP Client
+with an
+MID Server
+through Connection and Credentials Aliases, see
+Set up OAuth integration via MID Server
+.
+API Key
+: Add an
+MCP
+server with an API Key.
+Others
+: Add an
+MCP
+server manually by selecting a Connection and Credential Alias record.
+Note:
+You
+                    must authenticate the users with the
+MCP
+server to add the
+MCP
+tool to an AI agent.
+                    Without prior authentication, you can’t add the
+MCP
+servers.
+Was this topic helpful?
+Yes
+No
+Previous
+Install Model Context Protocol Client
+Next
+Add an MCP server with OAuth 2.1
+Previous
+Install Model Context Protocol Client
+Next
+Add an MCP server with OAuth 2.1 to get a better experience
+
+--- DOCUMENT START: ./servicenow_docs_mcpc/docs/bundle/zurich-intelligent-experiences/page/administer/model-context-protocol-client/concept/configuring-mcp-client.txt ---
+
+Model Context Protocol Client
+Configure Model Context Protocol Client
+Current page
+Table of Contents
+Configure
+Model Context Protocol Client
+Configure the
+MCP Client
+to execute agentic workflows with AI agents and mapped tools.
+Configuring
+MCP Client
+enables you to:
+Incorporate external tools in AI agents built on
+ServiceNow
+.
+Access tools offered on external
+MCP
+servers.
+Integrate
+MCP Client
+with the
+AI Agent Studio
+.
+By setting up
+MCP
+servers, AI agents in your environment can leverage external tools
+      efficiently, enhancing their ability to perform complex tasks with up-to-date information.
+Important:
+The
+Model Context Protocol Client
+application supports the latest
+Model Context Protocol
+version, which is 2025-06-18. However, the latest version does not include the support for PRM and Elicitation.
+Was this topic helpful?
+Yes
+No
+Previous
+Explore Model Context Protocol Client
+Next
+Install Model Context Protocol Client
+Previous
+Explore Model Context Protocol Client
+Next
+Install Model Context Protocol Client to get a better experience
+
+--- DOCUMENT START: ./servicenow_docs_mcpc/docs/bundle/zurich-intelligent-experiences/page/administer/model-context-protocol-client/concept/exploring-model-context-protocol-client.txt ---
+
+Model Context Protocol Client
+Explore Model Context Protocol Client
+Current page
+Table of Contents
+Explore
+Model Context Protocol Client
+The
+Model Context Protocol
+(
+MCP
+) client in
+ServiceNow
+is a framework that allows AI agents, such as large language models (LLMs), to interact with and manage
+ServiceNow
+instances. This interaction takes place within a server-client
+    architecture.
+Model Context Protocol Client
+terminology
+MCP
+host
+The AI application environment where the tasks are initiated.
+MCP
+client
+Manages communication between the host and the
+MCP
+servers, handling the requests and responses.
+The
+MCP Client
+architecture enables AI agents to extend their capabilities by invoking external systems dynamically, which enables tasks like accessing APIs, databases, or file systems
+                in a standardized way.
+MCP
+server
+Provides external functionalities by exposing tools for AI agents to use.
+MCP
+tools
+The external tools exposed by the
+MCP
+servers to be used by AI agents.
+Why use
+MCP
+tools
+MCP
+tools enable seamless integration to:
+Connect your AI agent with a wide variety of external tools with minimal setup.
+Add multiple
+MCP
+tools to an AI agent to perform a broader range of tasks.
+Review and edit tool input parameters as needed before saving.
+On this page
+Model Context Protocol Client
+        terminology
+Why use MCP tools
+Was this topic helpful?
+Yes
+No
+Previous
+Model Context Protocol Client
+Next
+Configure Model Context Protocol Client
+Previous
+Model Context Protocol Client
+Next
+Configure Model Context Protocol Client to get a better experience
+
+--- DOCUMENT START: ./servicenow_docs_mcpc/docs/bundle/zurich-intelligent-experiences/page/administer/model-context-protocol-client/reference/mcp-client.txt ---
+
+Now Assist AI agents
+Model Context Protocol Client
+Current page
+Table of Contents
+The
+ServiceNow®
+Model Context Protocol
+(
+MCP
+) client enables you to access the
+Model Context Protocol
+tools that are hosted externally and published using an
+MCP
+server in the
+ServiceNow®
+AI Agent Studio
+.
+Get started
+Explore
+Learn more about
+MCP Client
+Configure
+Configure the Model Context Protocol Client in
+AI Agent Studio
+Add
+MCP
+server in
+AI Agent Studio
+Add
+MCP
+servers in
+AI Agent Studio
+Reference
+Learn more about the user roles, tables, and properties in
+MCP Client
+Important:
+Not all model providers are available for customers with in-country SKUs, and some Now Assist products/features are currently unavailable for in-country customers. For more information, see the
+KB1584492
+article in the Now Support Knowledge Base. Be sure to check for model provider availability updates in future releases.
+Some
+Now Assist
+products/features are currently unavailable for customers in the FedRAMP, NSC DOD IL5, or Australia IRAP-Protected data centers, self-hosted customers, or in other restricted environments. For
+                more information, see the
+KB0743854
+article in the
+Now Support
+Knowledge Base
+. Be sure to check for availability updates in future releases.
+Some
+Now Assist
+products/features are currently available only for customers in some regions. Be sure to check for availability updates in future releases.
+AI limitations
+This application uses artificial intelligence (AI) and machine learning, which are rapidly evolving fields of study that generate predictions based on patterns in data. As a result, this application may not
+               always produce accurate, complete, or appropriate information. Furthermore, there is no guarantee that this application has been fully trained or tested for your use case. To mitigate these issues, it is your responsibility
+               to test and evaluate your use of this application for accuracy, harm, and appropriateness for your use case, employ human oversight of output, and refrain from relying solely on AI-generated outputs for decision-making
+               purposes. This is especially important if you choose to deploy this application in areas with consequential impacts such as healthcare, finance, legal, employment, security, or infrastructure. You agree to abide by
+ServiceNow’s AI Acceptable Use Policy
+, which may be updated by ServiceNow.
+Data processing
+This application requires data to be transferred from
+ServiceNow
+customers' individual instances to a centralized
+ServiceNow
+environment, which may be located in a different data center region from the one where your instance is, and potentially to a third-party cloud provider, such as
+Microsoft Azure
+. This data is handled per
+ServiceNow
+'s internal policies and procedures, including our policies available through our
+CORE Compliance Portal
+.
+Data collection
+ServiceNow
+collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve
+ServiceNow
+technologies including
+ServiceNow
+models and AI products. Customers can opt out of future data collection at any time, as described in the
+Now Assist
+Opt-Out page
+.
+For more information, see the
+Now Assist
+documentation
+.
+On this page
+Get started
+AI limitations
+Data processing
+Data collection
+Was this topic helpful?
+Yes
+No
+Previous
+Agentic evaluation run results
+Next
+Explore Model Context Protocol Client
+Previous
+Agentic evaluation run results
+Next
+Explore Model Context Protocol Client to get a better experience
+
