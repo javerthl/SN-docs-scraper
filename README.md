@@ -41,7 +41,7 @@ PIP
 
    In lines 64 and 65, enter the folder name where your docs are located and a filename for your final output respectively. 
 
-    ```python3 combine_and_clean_servicenow_scrape_docs.py```
+   ```python3 combine_and_clean_servicenow_scrape_docs.py```
 
 12. You now have a text file that is ready to be used in a search or LLM project.
 
