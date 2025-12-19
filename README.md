@@ -1,5 +1,5 @@
 # SN-docs-scraper
-This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. This can then be used as context for a Q&A agent or Search. All the scripts are written in Python. This was run in MacOS. 
+This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. This can then be used as context for a Claude Q&A agent or Search. All the scripts are written in Python. This was run in MacOS. 
 
 ## What's included in the repo
 - A scraping script
@@ -43,7 +43,7 @@ PIP
 
    ```python3 scrape_servicenow_docs.py```
 
-10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. This script also removes text such as the table of contents in the beginning and miscellaneous navigation text like "Login" that was captured in every page. Removing these elements will improve the search quality of your project. Run the "combine_and_clean_servicenow_scrape_docs.py" script.
+10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. This script also removes text such as the table of contents in the beginning and miscellaneous navigation text like "Login" that was captured in every page. Removing these elements will improve the context quality of your Claude project later. Run the "combine_and_clean_servicenow_scrape_docs.py" script.
 
     In lines 64 and 65, enter the folder name where your docs are located and a filename for your final output respectively.
 
