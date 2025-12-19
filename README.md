@@ -21,7 +21,7 @@ PIP
 ## Detailed steps
 1. Install Python 3.11. Add to PATH when prompted. 
 2. Open terminal and check that Python is installed.
-   Type: ```python3 --version``` (all code blocks from here on our are to be run in Terminal.)
+   Type: ```python3 --version``` (all code blocks from here on out are to be run in Terminal.)
 3. Create a folder called "servicenow_scraper" to store your scraped documents (also a good place to store your scripts.)
    
    ```mkdir servicenow_scraper```
