@@ -21,17 +21,19 @@ PIP
 ## Detailed steps
 1. Install Python 3.11. Add to PATH when prompted. 
 2. Open terminal and check that Python is installed.
-   Type: ```python3 --version```
+   Type: ```python3 --version``` (all code blocks from here on our are to be run in Terminal.)
 3. Create a folder called "servicenow_scraper" to store your scraped documents (also a good place to store your scripts.)
+   
    ```mkdir servicenow_scraper```
    
    ```cd servicenow_scraper```
-4. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
+5. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
+
    ```python3 -m venv venv```
    
    ```source venv/bin/activate```
-5. Your terminal should now show: ```(venv) %``` You want to run the following commands in the venv in your directory.
-6. Install dependencies. If you haven't yet, you'll need to install pip too. Visit https://pip.pypa.io/en/stable/installation/ to learn more.
+7. Your terminal should now show: ```(venv) %``` You want to run the following commands in the venv in your directory.
+8. Install dependencies. If you haven't yet, you'll need to install pip too. Visit https://pip.pypa.io/en/stable/installation/ to learn more.
    
    ```pip install playwright beautifulsoup4``` (or pip3). 
 
