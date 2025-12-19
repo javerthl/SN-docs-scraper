@@ -30,14 +30,17 @@ PIP
    ```pip install playwright beautifulsoup4``` (or pip3). 
 
    ```python3 -m playwright install chromium```
-   
-7. Run the "scrape_servicenow_docs.py" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
+
+7. Create the scaper python file in nano.
+   ```nano scraper.py```
+
+9. Run the "scrape_servicenow_docs.py" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
 
    ```python3 scraper.py```
 
    In lines 8 and 9, enter your starting URL and the base prefix for which to start navigating through the doc tree and scraping. 
-9. Replace the URL with the parent URL that you want to scrape. 
-10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
+10. Replace the URL with the parent URL that you want to scrape. 
+11. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
 
     ```python3 combine.py```
 12. Now you should have one large text file. Now let's clean it up. This removes text such as the table of contents and miscellaneous navigation text like "Login here" that was scraped from every page. Removing these elements will improve the search quality of your project. Run the "cleanup" script.
