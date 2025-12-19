@@ -1,5 +1,5 @@
 # SN-docs-scraper
-This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. All the scripts are written in Python. This was run in MacOS. 
+This repo contains scripts that can traverse and scrape data from servicenow.com/docs, combine the outputs, and clean up the results. This can then be used as context for a Q&A agent or Search. All the scripts are written in Python. This was run in MacOS. 
 
 ## What's included in the repo
 - A scraping script
