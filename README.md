@@ -35,7 +35,7 @@ PIP
    
    ```pip install playwright beautifulsoup4``` (or pip3). 
 
-   ```python3 -m playwright install chromium```
+   ```python3 -m playwright install chromium``` (this downloads a playwright managed version of Chromium).
 
 9. Run the "scrape_servicenow_docs.py" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
 
