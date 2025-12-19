@@ -31,12 +31,9 @@ PIP
 
    ```python3 -m playwright install chromium```
 
-7. Create the scaper python file in nano. Save (Ctrl+O) and exit (Ctrl+X).
-   ```nano scraper.py```
-
 9. Run the "scrape_servicenow_docs.py" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
 
-   ```python3 scraper.py```
+   ```python3 scrape_servicenow_docs.py```
 
    In lines 8 and 9, enter your starting URL and the base prefix for which to start navigating through the doc tree and scraping. 
 10. Replace the URL with the parent URL that you want to scrape. 
