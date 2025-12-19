@@ -1,0 +1,1279 @@
+Zurich Enable AI
+Filter
+Filters
+Clear All Filters
+Versions
+Zurich
+Yokohama
+Xanadu
+Washington DC
+Products
+Release Notes and Upgrades
+AI Experiences
+API implementation and reference
+API implementation
+API reference
+Developer guides
+App development and low-code
+Building applications
+App Engine Studio
+Application Tools
+Automated Test Framework
+Business Rules
+Creating Applications
+Creator Studio
+Custom Components
+ERP Canvas
+Flow Designer
+Guided Application Creator
+Inbound REST web service
+Inbound web services
+JavaScript API reference
+Manage Business Applications
+ODBC driver
+Outbound REST Web Service
+Outbound SOAP Web Service
+Outbound Web Service
+Outbound Web Service Logging
+Perl API
+Process Designer
+REST API reference
+Scripting
+Scripted REST APIs
+Scripted SOAP web services
+ServiceNow Application Repository
+SOAP web service
+Service Creator
+ServiceNow IDE
+ServiceNow SDK
+ServiceNow Studio
+Studio
+Team Development
+UI Builder
+Update Sets
+Web Services
+Create Workflows
+Better Together
+Cloud Governance Suite
+Cloud Observability
+Core Business Suite
+CRM and Industry Products
+Financial Services Operations
+Financial Services Card Operations
+Financial Services Complaint Management
+Financial Services Customer Lifecycle Operations
+Financial Services Deposit Operations
+Financial Services Know Your Customer
+Financial Services Loan Operations
+Financial Services Payment Operations
+Financial Services Treasury Operations
+Healthcare and Life Sciences
+EMR Operations Management
+Healthcare and Life Sciences Service Management
+Manufacturing
+Public Sector
+Retail Industry
+Telecommunications Media and Technology Assurance
+Account Lifecycle Events
+PSEW
+Service Bridge
+Technology
+Telecommunications Service Operations Management
+Telecommunications
+Telecommunications Network Inventory
+Telecommunications Service Management
+Customer Service Management
+Communities
+Customer Service Management
+Data and Automation
+RPA Hub
+Employee Service Management
+Emergency Response Management
+Employee Center
+Employee Center Integration with Microsoft Viva Connections
+Employee Center Pro
+Granular Delegation
+Health and Safety
+Health and Safety Testing
+HR Service Delivery
+HR Service Delivery Non-Scoped
+HR Service Delivery Integration with Workday Learning
+Indoor Mapping
+Legal Service Delivery
+Safe Workplace
+ServiceNow for Microsoft 365
+ServiceNow for Microsoft Outlook
+ServiceNow for Microsoft Teams
+ServiceNow for Zoom
+SharePoint Online Search Connector
+Universal Request
+Universal Task
+Workforce Optimization for HRSD
+Workplace Move Management
+Workplace Service Delivery Suite
+Workplace Service Delivery for Mobile
+Workplace Lease Administration
+Enterprise Architecture
+Environmental, Social, Governance
+Field Service Management
+Field Service Management
+Finance and Supply Chain
+Sourcing and Procurement Operations
+Supplier Lifecycle Operations
+Accounts Payable Operations
+Finance Operations Management
+Finance Close Automation
+Governance Risk and Compliance
+Audit Management
+Business Continuity Management
+Compliance Case Management
+Continuous Authorization and Monitoring
+Operational Resilience
+Policy and Compliance Management
+Privacy Management
+Regulatory Change Management
+Risk Management
+Smart Assessment Engine
+Third-party Risk Management
+Impact
+IT Asset Management
+Cloud Cost Management
+Cloud Cost Management setup guide for AWS
+Cloud Cost Management setup guide for Azure
+Enterprise Asset Management
+Hardware Asset Management
+Now Assist for Software Asset Management
+Software Asset Management
+IT Operations Management
+Agent Client Collector
+Cloud Management
+Cloud Native Operations
+Cloud Services Catalog
+Configuration Automation
+Discovery
+Event Management
+Health Log Analytics
+ITOM Cloud Accelerate
+ITOM Visibility
+Operational Intelligence
+Service Mapping
+IT Service Management
+Asset Management
+Benchmarks
+Change Management
+Coaching
+Collaboration Services for TCM
+Continual Improvement Management
+Contract Management
+DevOps
+Digital End-User Experience
+Digital Portfolio Management
+Expense Line
+Incident Communications Management
+Incident Management
+ITSM Agent Workspace
+ITSM Guided Setup
+ITSM Predictive Intelligence Workbench
+ITSM Virtual Agent
+Machine learning solutions for IT Service Management
+On-Call Scheduling
+Problem Management
+Procurement
+Product Catalog
+Recommendation Framework
+Release Management
+Request Management
+Service 360
+Service Builder
+Service Catalog
+Service Desk
+Service Level Management
+Service Operations Workspace
+Service Operations Workspace for ITOM
+Service Portfolio Management
+Site Reliability Metrics
+Site Reliability Operations
+Software Asset Management Foundation plugin
+Vendor Performance Management
+Vendor Manager Workspace
+Walk-up Experience
+Workforce Optimization for ITSM
+Legal Service Delivery
+Operational Technology Management
+Manufacturing Process Manager
+Operational Technology Change Management
+Operational Technology Manager
+Operational Technology Incident Manager
+Operational Technology Knowledge Management
+Operational Technology Vulnerability Response
+Procurement Operations Management
+Sales and Order Management
+Security Operations
+Application Vulnerability Response
+Carbon Black Incident Enrichment integration
+Carbon Black integration
+Check Point Anti-bot - Email Parser integration
+Configuration Compliance
+CrowdStrike Falcon Host integration
+Crowdstrike Falcon Intelligence integration
+CrowdStrike Falcon Sandbox
+Elastic Search integration
+HPE Security ArcSight integration
+IBM QRadar Integration
+Intel McAfee EPO integration
+Intel McAfee ESM integration
+Microsoft Exchange On-Premises integration
+OPSWAT Metadefender integration
+Palo Alto Networks Integration
+Qualys Cloud Platform Integration
+Rapid7v6 vulnerability integration
+Recorded Future integration
+Security Incident Response
+Security Incident Response Analysis
+Security Incident Response Creation
+Security Incident Response integrations
+Security Incident Response Integration Hub
+Security Incident Response mobile
+Unified Security Exposure Management (USEM)
+Security Incident Response Orchestration
+Security Incident Response Reporting
+Security Incident Response setup
+Security Operations Have I Been Pwned? integration
+Security Operations Integration Reference
+Security Operations Integrations
+Security Operations Orchestration
+Security Operations Whois integration
+ServiceNow Security Operations add-on for Splunk
+SIR Analyst Workspace
+Splunk Enterprise Security Event Ingestion Integration
+Splunk - Incident Enrichment integration
+Tanium Endpoint Platform Integration
+Threat Integration
+Threat Intelligence
+Threat Intelligence Orchestration
+Trusted Security Circles
+VirusTotal integration
+Vulnerability Response
+Vulnerability Response mobile
+Vulnerability Response Orchestration
+Service Management - Other
+Application Designer
+Coaching Loops
+Customer Support
+Facilities Service Management
+Finance Service Management
+Legal Service Management
+Marketing Service Management
+Planned Maintenance
+Skills Management
+Structured Problem Analysis
+ServiceNow AI Platform
+Conversational Interfaces
+Now Platform Administration
+Administration
+AI Search
+Contextual Search
+Core Configuration
+Currency fields
+Data Management
+Domain Separation
+Dynamic Translation
+Encryption Support
+Events
+Field Encryption with Key Management
+Form Administration
+Integrations
+Key Management Framework
+Lists
+Localization
+Localization Framework
+Machine learning solutions for Search administration
+Normalization Data Service
+Platform Field Administration
+Platform Performance
+Platform Security
+Search Administration
+State Model
+Table Administration
+Time Cards
+Time Configuration
+User Administration
+Upgrade Center
+Upgrades and conversions
+Now Platform Capabilities
+Advanced Work Assignment
+Agent Workspace
+Cloud Call Center
+Common Service Data Model
+Compliance
+Configuration Management
+Connect
+Content Management System
+Data Certification
+Decision Tables
+Dependency Views
+Edge Encryption
+E-signature
+External Credential Storage
+HealthScan
+IntegrationHub
+IntegrationHub Spokes
+Instance Data Replication
+Knowledge Management
+Legacy Chat
+Live Feed
+Managed Documents
+Messaging Service
+MetricBase
+MID Server
+Notifications
+Notify
+Notify Connector for Microsoft Teams
+Omnichannel Callback
+Orchestration
+Policy as Code Engine
+Password Reset Application
+Proactive Triggers
+Remote Tables
+Response Templates
+Self Service
+Service Administration
+Service Portal Designer
+Service Portal Widgets
+ServiceNow Voice
+Skills Management
+Subscription Management
+Survey Management
+Task Communications Management
+Templated snippets
+Timeline Visualization
+UIB Platform Workspace
+Virtual Agent
+Visual Task Boards
+Visualizations
+Workflow
+Now Platform Security
+Now Platform User Interface
+Adoption services
+Embedded Help and Guided Tours
+Homepages
+Navigation and UI
+Now Intelligence
+Automation Discovery
+Dashboards
+Natural Language Intelligence
+Performance Analytics
+Predictive Intelligence
+Process Optimization
+Reporting
+Spotlight
+Task Intelligence
+User Experience Analytics
+Mobile Configuration and Navigation
+Mobile Classic
+Smart Operations
+Software Asset Management
+Strategic Portfolio Management
+Cost Management
+Demand Management
+Enterprise Release Management
+Financial Management
+Goal Framework and Goal Framework for SPM
+Innovation Management
+Investment Funding
+IT Program Management
+Machine learning solutions for IT Business Management
+Personal Task Management
+Project Portfolio Management
+Project Portfolio Suite
+Project Portfolio Suite with Financials
+Rate Model
+Resource Management
+Scaled Agile Framework
+Software Development Lifecycle
+Test Management
+Time Card Management
+Save
+Close
+Clear All Filters
+i
+Add an MCP server in AI Agent Studio
+Watch
+Save as PDF
+Save topic
+Save topic & subtopics
+Save entire publication
+Share this page
+Share to email
+Copy latest version URL
+Feedback
+Print
+Expand
+Collapse
+Enable AI experiences
+ServiceNow AI implementation
+Now Assist organization and tools
+AI governance for Now Assist on the ServiceNow AI Platform
+Data readiness for implementing Now Assist on the ServiceNow AI Platform
+Application readiness for Now Assist on the ServiceNow AI Platform
+Knowledge Base readiness for Now Assist on the ServiceNow AI Platform
+Service Catalog readiness for Now Assist on the ServiceNow AI Platform
+AI Search readiness for Now Assist on the ServiceNow AI Platform
+Now Assist in Virtual Agent readiness on the ServiceNow AI Platform
+Understanding large language models (LLMs)
+Solving installation and configuration issues with Now Assist
+Now Assist AI assets
+Now Assist skills, agents, and agentic workflows on by default
+Now Assist skills
+Now Assist skills in the Platform workflow
+Catalog item form slot-fill
+Now Assist Conversational Help
+Now Assist extract information from documents
+Knowledge content recommendation
+Navigation
+Smart Documents Skill
+Now Assist in Standard Ticket Page
+Now Assist agentic workflows
+Platform agentic workflows
+Platform Analyze task trends agentic workflow
+Platform Classify tasks agentic workflow
+Platform Generate my work plan agentic workflow
+Platform Generate resolution plan agentic workflow
+Platform Identify ways to improve service agentic workflow
+Platform Investigate problems agentic workflow
+administer/now-assist-ai-agents/concept/email-task.html
+Platform Process images for new tasks agentic workflow
+Platform Propose survey responses agentic workflow
+Platform AI agents
+Platform Approval assistance AI agent
+Platform Issue Readiness AI agent
+Platform Request status AI agent
+Large language models on the ServiceNow AI Platform
+Now LLM Service updates
+General guidelines for writing instructions for generative AI large language models (LLMs)
+Long term stable models
+Discrepancies when using different AI search tools
+Providers and Models
+Create a model
+Now Assist
+Exploring Now Assist Admin
+Overview tab in Now Assist Admin
+Now Assist Experiences
+Now Assist panel
+Activate Now Assist panel assistants
+Standard chat
+Enhanced chat
+Activate Now Assist panel enhanced chat
+Enable voice input for Now Assist panel
+Now Assist context menu
+Email recommendations using the Now Assist context menu
+Summarize records with the Now Assist context menu
+Improve Docs content in Strategic Portfolio Management with Now Assist context menu
+Generate KB article with Now Assist context menu
+Now Assist context menu usage dashboard
+Use Now Assist context menu for custom skill deployment
+Create Now Assist context Menu configuration
+Create multiple Now Assist context menu skill configurations
+administer/now-assist-platform/concept/nacm-variable-set-description.html
+Analyzing Now Assist performance
+Exploring Now Assist Analytics
+Configuring Now Assist Analytics
+Installing Now Assist Analytics
+Map a skill to a dashboard
+Using Now Assist Analytics
+Usage and adoption
+Self-Service performance
+Skills performance
+Skill details
+Custom skill details
+Now Assist Guardian analytics
+User search analyzer
+Now Assist context menu analytics
+Now Assist Analytics reference
+Now Assist Analytics roles
+Now Assist Analytics dashboard indicator details
+Now Assist Admin Settings
+Multilingual service for Now Assist applications
+Translation for Now Assist
+Microsoft Azure OEM for Dynamic Translation in Now Assist
+Data sharing and processes
+Configure Now Assist privacy policies
+Opt out of data sharing for Now Assist
+Configure Now Assist data overflow processing
+Assign the data steward role
+Now Assist Guardian
+Activate offensiveness protection for generative AI
+Configure prompt injection attack protection
+Configure sensitive topic filters
+Export Now Assist Guardian logs
+Manage AI models
+Manage model providers
+Manage version
+Manage Integration
+Review Now Assist account
+Configuring Now Assist Admin features
+Install Now Assist plugins
+Turn on the Now Assist panel
+Using Now Assist Admin
+Activate a Now Assist skill
+Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console
+Configure email reply recommendation in the Now Assist Admin console
+Edit a Now Assist skill
+Make a copy of a Now Assist skill
+Configure case or incident summarization in the Now Assist Admin console
+Analyzing Now Assist usage
+Now Assist reference
+Domain separation in the Now Assist Admin console
+Fetch end points in Now Assist Conversational Help skills
+Now Assist Admin roles
+User data usage policy for Now Assist
+Troubleshoot a Now Assist skill
+Generative AI Controller
+Exploring Generative AI Controller
+Domain separation and Generative AI Controller
+Configuring Generative AI Controller
+Installing Generative AI Controller
+Configuring API credentials for generative AI capabilities
+Configure API Credentials for Aleph Alpha
+Configure API Credentials for Amazon Bedrock
+Configure API credentials for Azure OpenAI
+Configure API credentials for Google AI Studio
+Create API credentials for Google Vertex AI
+Configure API credentials for IBM watsonx
+Configure API credentials for OpenAI
+Configure API credentials for a generic large language model (LLM) connector
+Configure a generic large language model (LLM) connector
+Set a provider for a generative AI capability
+Select a model for Amazon Bedrock
+Enable a generative AI capability in Virtual Agent Designer
+Configure small talk filters
+Configure AI search answers capability for web search
+Enable recursive summarization for large inputs
+Enable Dynamic Translation for capabilities in Generative AI Controller
+Disable Dynamic Translation for LLM Virtual Agent conversations
+Configure rate limiting for providers
+Using Generative AI Controller
+Use Generative AI Controller with Workflow Studio
+Use Generative AI Controller with Virtual Agent Designer
+Use Sentiment Analysis with Workflow Studio
+Use a script with Generative AI Controller
+Reference for Generative AI Controller
+Generate Content action
+Generic Prompt action
+Sentiment Analysis action
+Summarize action
+Now Assist AI agents
+Explore Now Assist AI agents
+AI Agent Studio
+Understand the Now Assist AI agents
+In-product experience for agentic workflows
+Best practices for AI agents configuration
+General guidelines for creating AI agents and agentic workflows
+Example AI agent
+Example agentic workflow
+Group Action Framework
+Version control for AI agents and agentic workflows
+Implement access control in Now Assist AI agents
+AI agent learning
+Configure Now Assist AI agents
+Install Now Assist AI agents
+Enable Now Assist Guardian for AI agents
+Set up long-term memory
+Configure Group Action Framework
+Set up AI Search for GAF
+Multiple conversations in Now Assist AI agents
+Citations in Now Assist AI agents
+Disable citations in AI Agent Studio
+Follow-up conversations
+Add recipients to usage spike, execution failure, and latency error email notifications
+Role masking in Now Assist AI agents
+Create an AI agent
+Find AI agents
+Define the specialty of an AI agent
+Add tools and information to an AI agent
+Add a catalog item to an AI agent
+Add a conversational topic to an AI agent
+Add a desktop action to an AI agent
+Add a file upload to an AI agent
+Add a flow action to an AI agent
+Add a Knowledge Graph to an AI agent
+Add a Now Assist skill to an AI agent
+Add a record operation to an AI agent
+Add a script to an AI agent
+Add a search retrieval to an AI agent
+Add a subflow to an AI agent
+Add a web search to an AI agent
+Define security controls for an AI agent
+Add a trigger to an AI agent
+Select channels and status for an AI agent
+Duplicate an AI agent
+Modify an AI agent
+Manually test the execution of an AI agent
+Test user access to an AI agent
+Delete an AI agent
+Create an external AI agent
+Integrating external AI agents
+ServiceNow AI agents as secondary agents
+Create an external AI agent with manual integration
+Create an external AI agent with the Agent2Agent protocol
+Create an agentic workflow
+Define key requirements for an agentic workflow
+Define security controls for an agentic workflow
+Add a trigger to an agentic workflow
+Select channels and access for an agentic workflow
+Duplicate an agentic workflow
+Activate an agentic workflow template
+Modify an agentic workflow
+Manually test the execution of an agentic workflow
+Test user access to an agentic workflow
+Delete an agentic workflow
+Deploy AI voice agents
+Install Now Assist AI voice agents
+Create an AI voice assistant
+Configure custom assistant
+Create an AI voice agent
+Integrating voice assistant with CCaaS provider
+Integrate ServiceNow voice assistant with Twilio voice service
+Integrate ServiceNow voice assistant with Genesys Cloud service
+AI voice agent analytics
+AI voice agent reference
+Evaluate agentic workflows and AI agents
+Create a custom metric for evaluating agentic workflows
+Agentic evaluation parser tool
+General guidelines for AI agent and agentic workflow evaluation
+Examples of using AI agents
+Resolve an incident
+Review and update tickets with the Ticket Status AI agent
+Now Assist AI agents reference
+Domain separation and Now Assist AI Agent Studio
+AI Agent Analytics dashboard
+Agentic evaluation run results
+Model Context Protocol Client
+Explore Model Context Protocol Client
+Configure Model Context Protocol Client
+Install Model Context Protocol Client
+Add an MCP server in AI Agent Studio
+Add an MCP server with OAuth 2.1
+Add an MCP server with an API key
+Add an MCP server with a connection and credential alias record
+Add an MCP server tool to an AI agent
+Test an AI agent
+Model Context Protocol Client reference
+Now Assist Data Kit
+Exploring Now Assist Data Kit
+Configuring Now Assist Data Kit
+Install Now Assist Data Kit
+Using Now Assist Data Kit
+Add a dataset
+Create a derived dataset
+Generate synthetic data
+Select the sample data
+Define columns to generate data
+Synthetic data generation skills
+Add a ground truth to each dataset record
+View data insights
+Find and cleanse sensitive data
+Now Assist Data Kit reference
+Now Assist Data Kit roles (sn_data_kit.analyst)
+Now Assist Data Kit roles (sn_data_kit.admin)
+Now Assist Skill Kit
+Exploring Now Assist Skill Kit
+General guidelines for Now Assist Skill Kit
+Scoping the skill
+Creating a dataset using Now Assist Skill Kit
+Developing the prompt
+Evaluating the prompt
+Deploying and monitoring the skill
+Example use case for Now Assist Skill Kit
+Security for Now Assist Skill Kit
+Configuring Now Assist Skill Kit
+Configure a skill prompt
+Configure skill deployment settings
+Example deployment with Workflow Studio
+Configure security controls for a skill
+Using Now Assist Skill Kit
+Create a skill
+Clone and edit a ServiceNow skill
+Create a prompt
+Add a tool
+Add a retriever
+Retriever chunking and reranking
+Add a web search
+Add Predictive Intelligence
+Add Document Intelligence
+Use prompt assistance
+Test a prompt
+Evaluate a prompt
+Finalize and publish a skill
+Activate a skill
+Call a custom skill from a script
+Now Assist Skill Kit reference
+Now Assist Skill Kit roles
+Field of use for Now Assist Skill Kit
+Web search custom skill
+AI Control Tower
+Exploring AI Control Tower
+AI Control Tower dashboard
+AI Control Tower Home
+Overview tab in AI Control Tower
+AI strategy tab in AI Control Tower
+AI asset inventory tab in AI Control Tower
+Value tab in AI Control Tower
+Health tab in AI Control Tower
+Risk and compliance tab in AI Control Tower
+AI cases tab in AI Control Tower
+Evaluation tab in AI Control Tower
+Value tab in the Evaluation dashboard
+Human feedback for evaluations
+Enabling evaluations
+Configuring evaluations
+Security & Privacy tab in AI Control Tower
+AI Gateway tab in AI Control Tower
+AI assets
+AI asset inventory
+View AI asset details
+AI asset lifecycle
+Approvals
+Cases
+Inquiries
+AI strategies and goals
+AI Task - All Security Tasks
+Configurations
+Data
+Controls
+Approvals
+AI model providers
+Multi-instance setup
+AI discovery setup
+AI Gateway
+Playbooks
+Product Owner portal
+My overview tab in AI Control Tower
+AI portfolio tab in AI Control Tower
+Definitions of AI asset inventory
+AI systems
+Example of an AI system
+AI models
+Prompts
+Datasets
+Inter-dependencies
+Explore Third-party LLMs and regions
+Explore Now Assist AI asset discovery
+Explore Enterprise AI discovery
+Enterprise AI discovery: Unlock Visibility, Governance & Value
+Create hyperscaler connections
+Azure AI Foundry
+Configure Azure portal
+Connect to Azure AI Foundry from ServiceNow
+AWS Bedrock
+Configure AWS Bedrock console
+Connect to AWS Bedrock from ServiceNow
+Asset discovery
+Usage
+Google Cloud Platform (GCP) Vertex AI
+Configure a Google Cloud Platform (GCP) service account
+Connect to Google Cloud Platform (GCP) Vertex AI from ServiceNow
+Copilot Studio
+Configure Copilot Studio
+Connect to Copilot Studio from ServiceNow
+Explore AI Gateway
+AI Gateway overview
+Process flow of MCP servers Via AI Gateway
+Add an MCP server
+MCP server approval request
+Setting up for connections with AI Gateway
+View the MCP server record
+Connect to MCP servers Via AI Gateway
+Connecting with Copilot Studio Via AI Gateway
+Configuring AI Control Tower workflows
+Activation and installation of AI Control Tower
+Configure AI Control Tower
+Configure Multi-instance management for AI Control Tower
+Configure third-party LLMs using AI Control Tower
+Using AI Control Tower
+Create an AI Control Tower Playbook Workflow
+Create a Now Assist approval task
+Creating AI assets
+Create AI system assets
+Create AI model assets
+Create prompt assets
+Create dataset assets
+Creating requests for AI assets
+Create change request for AI assets
+Create off-boarding requests for AI systems
+View AI assets by lifecycle stage
+Complete AI asset lifecycle
+Using value templates
+Create a new value template
+Edit a value template
+Create a new value template mapping
+Assign a default template
+Create an AI case in the AI Control Tower
+Create new AI case form
+Create an AI issue in the AI Control Tower
+Create new AI issue form
+AI Control Tower Reference
+Add value template form
+AI Control Tower roles
+AI Risk and Compliance roles
+Tables installed with AI Control Tower
+AI asset data model attributes
+Evaluation dashboard References
+Components installed with the Evaluation dashboard
+Evaluation metrics and calculations
+Evaluation flow
+Evaluation flow for batch evaluations
+Knowledge Graph
+Exploring Knowledge Graph
+Access Knowledge Graph Schema
+Leverage Knowledge Graph prebuilt integration with Now Assist Virtual Agent and Now Assist Panel
+Leverage Knowledge Graph prebuild integration with AI agents
+Natural language queries use cases and examples
+Workflow Data Fabric integration with Knowledge Graph
+Configuring Knowledge Graph
+Configure LLM for Knowledge Graph
+Configure Microsoft OneDrive application for Knowledge Graph
+Using Knowledge Graph Designer
+Create a Knowledge Graph schema
+Edit a Knowledge Graph schema
+Manage nodes in a Knowledge Graph schema
+Add or delete edges to a Knowledge Graph schema
+Test a Knowledge Graph schema
+Analyze Knowledge Graph logs for debugging
+Create a copy of a Knowledge Graph schema
+Using Enterprise graph schema
+Tagging in Knowledge Graph
+Create and manage Knowledge Graph tags
+Setting up Enterprise graph in sub-production instance
+Initial setup for Enterprise Graph schema in production instance
+Access Enterprise Graph schema
+View and manage Enterprise Graph schema
+Select multiple tables
+Test an Enterprise Graph schema
+Reference for Knowledge Graph
+Knowledge Graph roles
+Knowledge Graph Admin [kg_admin]
+MCP Server Console
+Exploring MCP Server Console
+Configuring MCP Server Console
+Create a Model Context Protocol server
+Create a tool for a Model Context Protocol server
+Connecting to an MCP server from an MCP client
+MCP Server Console reference
+Components installed with MCP Server Console
+Now Assist Readiness Evaluation
+Exploring Now Assist Readiness Evaluation
+Configuring Now Assist Readiness Evaluation
+Run the GenAI/AgenticAI Assessment scheduled job
+Configure the Now Assist Readiness Evaluation guided setup
+Using Now Assist Readiness Evaluation
+Using Now Assist Readiness Evaluation dashboard
+Agentic AI - Assessment dashboard tab
+Now Assist assessment dashboard tab
+Assessing go or no-go
+Reviewing your Now Assist assessment
+Reviewing your agentic AI assessment
+Natural Language Understanding
+Exploring Natural Language Understanding
+Activate the NLU Workbench
+NLU Workbench roles
+NLU Workbench properties
+NLU language support
+NLU Service updates
+NLU models
+Model management
+Creating models
+Create an NLU model from blank
+Create an NLU model from a CSV file
+Create an NLU model using a pre-built model
+Duplicate an NLU model
+Export an NLU model
+Add an NLU model to an update set
+Delete an NLU model
+Build and train your model
+NLU intents
+Create an NLU intent
+Reusing intents from prebuilt NLU models
+Import an NLU intent
+Resolve intent issues
+NLU entities
+Create a simple entity
+Create a mapped entity
+Create a pattern entity
+Create a system-derived entity
+Create an open-ended entity
+Import entities
+Using regular expressions in entities
+NLU vocabulary
+Create a regular vocabulary item
+Create a pattern vocabulary item
+Create a list vocabulary source
+Create a table vocabulary source
+Sync a table vocabulary source
+Pre-built vocabulary
+Test set creation and management
+Train and try your NLU model
+Test panel feedback
+Test and publish your model
+Test your model
+Publish your NLU model
+Compare draft and published versions of your NLU model
+Irrelevance detection in NLU
+Tune your model
+NLU model settings
+Multilingual model management
+Model language grouping
+Translate a multilingual model
+Enable or disable a secondary model intent
+Assign an NLU editor to a model
+Import primary model content to a secondary model
+Virtual Agent and NLU Workbench integration
+NLU Workbench - Advanced Features
+Install NLU Workbench - Advanced Features
+Components installed with NLU Workbench - Advanced Features
+Multi-model Batch Testing
+Create a test set
+Run a multi-model batch test
+Cross-model Conflict Review
+NLU Model Performance
+NLU Expert Feedback Loop
+Issue Auto Resolution Tuning in NLU
+Issue Auto Resolution tuning options
+Intent Discovery
+Install Intent Discovery
+Components installed with Intent Discovery
+Natural Language Query
+Exploring Natural Language Query
+Using Natural Language Query
+Configuring NLQ
+Create an NLQ synonym
+Create an NLQ shortcut
+View NLQ logs
+View NLQ Table Guesser logs
+Natural Language Query References
+NLQ properties
+Natural Language Query roles
+Agentic Desktop
+Exploring Agentic Desktop
+Agentic Desktop Design workspace
+Agentic Desktop Execution workspace
+Supporting information for Agentic Desktop
+Configure Agentic Desktop
+Download Agentic Desktop installer
+Desktop actions in Agentic Desktop
+Automate repetitive tasks by auto-capturing steps in Agentic Desktop
+Automate repetitive tasks by manually capturing steps in Agentic Desktop
+Add details to desktop actions in Agentic Desktop
+Test and activate a desktop action in Agentic Desktop
+Screen, anchor, and step properties in Agentic Desktop
+Creating AI Agents for Agentic Desktop
+Add a desktop action to an AI agent
+Examples of creating desktop actions
+Example: Automate badge request management using Agentic Desktop
+Example: Automate shipping management tasks using Agentic Desktop
+Examples of executing desktop actions using AI agents
+Example: Use AI agents to process badge-related requests automatically
+Example: Use AI agents to automatically enter data into the shipping management app
+Agentic Desktop reference
+Components installed with Agentic Desktop
+System requirements and limitations in Agentic Desktop
+Predictive Intelligence
+Explore Predictive Intelligence
+Predictive Intelligence frameworks
+Install Predictive Intelligence
+Configure Predictive Intelligence
+Configuration tips for Predictive Intelligence
+Create a custom stopwords list
+Create a word corpus
+Quick start tests for Predictive Intelligence
+Activate solution version
+Export trained solutions to production
+Configuring advanced settings for your ML solutions
+Configure class recall for a classification solution
+Configure TF-IDF for solutions
+Configure XGBoost for classification or regression solutions
+Configure DBSCAN for a clustering solution
+Configure HDBSCAN for a clustering solution
+Configure Connect Component algorithm and Levenshtein Distance method for a clustering solution
+Config parameters for model config in classification
+Use LightGBM algo for classification model training
+Minimum records needed for label to include it
+Configure include only top N labels
+Remove others label
+Creating and training solutions
+Create and train a classification solution
+Exclude a class from prediction
+Exclude a class from solution training
+Tune a trained classification solution
+Configuring target metrics for a trained classification solution
+Using Group By for classification
+Model Explainability
+Create and train a similarity solution
+Update your similarity score threshold
+Create and train a clustering solution
+Assign a name to a cluster
+Generate a representative sample of a cluster
+Apply purity on a clustering solution
+Analyze a cluster with Cluster Insight
+Create and train a regression solution
+View solution training progress
+Review classification solution statistics
+Review solution similarity examples
+Using Predictive Intelligence
+Using Machine Learning APIs
+Testing and monitoring predictions
+Test a classification solution prediction
+Test a similarity solution prediction
+Track classification prediction results over time
+Reviewing your ML solution training jobs
+Reviewing prediction errors with the Observability Dashboard
+Domain separation and Predictive Intelligence
+Database View support for Predictive Intelligence
+ServiceNow apps and features that use Predictive Intelligence
+Use Predictive Intelligence in Workflow Studio with ML actions
+Using MLSolutionFactory scriptable objects
+Preserve ML solutions during a system clone
+Predictive Intelligence references
+Data Encryption in Predictive Intelligence
+Predictive Intelligence language support
+Predictive Intelligence properties
+Predictive Intelligence roles
+Document Intelligence
+Exploring Document Intelligence
+Configuring Document Intelligence
+Set up Document Intelligence
+Install Document Intelligence
+Upgrade to Document Intelligence 3.0 or later from version 2.4 or earlier
+Configure Document Intelligence settings
+Set up document extraction use cases
+Create a document extraction use case
+Create a field for data extraction
+Deactivate a data extraction field
+Configure data extraction modes
+Manage document extraction use cases
+Duplicate a document extraction use case
+Export a document extraction use case
+Import a document extraction use case
+Delete a document extraction use case
+Set up document classification use cases
+Create a document classification use case
+Create a document class
+Train a use case
+Manage document classification use cases
+Delete a document classification use case
+Manage field values
+Integrating Document Intelligence with other applications
+Integrate with a custom application or workflow
+Integrate with Customer Service Management
+Integrate with Financial Services Operations
+Integrate with Accounts Payable Operations
+Integrate with Automation Center
+Using Document Intelligence
+Create a document task
+Complete a document task
+Extract fields using the Document Intelligence workspace
+Extract fields using the draw tool
+Classify documents using the Document Intelligence workspace
+Monitoring Document Intelligence performance
+View reports on the Document Intelligence Admin home page
+Document Intelligence monitoring dashboard
+Use case performance dashboard
+Document Intelligence references
+Components installed with Document Intelligence
+Confidence scores
+Data extraction modes
+Data normalization
+Document field statuses
+Document Intelligence forms
+Check box list form
+Single field form
+Single field group form
+Table form
+Document Intelligence properties
+Document Intelligence roles
+Document Intelligence terminology
+Document task statuses
+Domain separation and Document Intelligence
+Languages supported by Document Intelligence
+Limitations in Document Intelligence
+Now Assist in Document Intelligence
+Exploring Now Assist in Document Intelligence
+Use cases in Now Assist in Document Intelligence
+Document Intelligence workspace with Now Assist
+Supporting information for Now Assist in Document Intelligence
+Configuring Now Assist in Document Intelligence
+Activate a Now Assist in Document Intelligence skill
+Set up a use case for Now Assist in Document Intelligence
+Turn on Full automation mode for a use case
+Change the language models for a use case
+Edit a use case in Now Assist in Document Intelligence
+Make a copy of a use case in Now Assist in Document Intelligence
+Deactivate a use case in Now Assist in Document Intelligence
+Delete a use case in Now Assist in Document Intelligence
+Using Now Assist in Document Intelligence
+Review extracted information in the Document Intelligence workspace
+Now Assist in Document Intelligence reference
+Components installed with Now Assist in Document Intelligence
+Data extraction modes in Now Assist in Document Intelligence
+Document and visual insights AI agent
+Document Intelligence tool for Now Assist Skill Kit
+Field types in Now Assist in Document Intelligence
+Now Assist in Document Intelligence forms
+Question form for use case setup
+Field form for use case setup
+Table form for use case setup
+Limitations in Now Assist in Document Intelligence
+Large language models used by Now Assist in Document Intelligence
+Languages supported by Now Assist in Document Intelligence
+Task Intelligence
+Exploring Task Intelligence
+Configure Task Intelligence
+Install Task Intelligence Admin Console
+Manage machine learning models with Task Intelligence
+Create a Task Intelligence model
+Edit a Task Intelligence model
+Assess a Task Intelligence model
+Assess field-level accuracy for multi-output models
+Task Intelligence Analytics and Monitoring
+Export a Task Intelligence model
+Task Intelligence references
+Task Intelligence roles
+Languages supported by Task Intelligence
+ServiceNow AI Lens
+Exploring ServiceNow AI Lens
+ServiceNow AI Lens features
+ServiceNow AI Lens landing page overview
+Supporting information for ServiceNow AI Lens
+ServiceNow AI Lens skill
+Configure ServiceNow AI Lens
+Activate the ServiceNow AI Lens skill
+Download the ServiceNow AI Lens installer
+Define default instructions for ServiceNow AI Lens
+Define ServiceNow AI Lens behavior with Lens actions
+Enabling ServiceNow AI Lens in Virtual Agent
+Using ServiceNow AI Lens
+Create a record in an instance by using ServiceNow AI Lens
+Update a record in an instance by using ServiceNow AI Lens
+Autofill catalog item form in the Service Portal
+Trigger ServiceNow AI Lens from the desktop app
+Extract and analyze your data by using ServiceNow AI Lens in the standalone mode
+Extract and analyze data using ServiceNow AI Lens from Virtual Agent
+ServiceNow AI Lens reference
+Components installed with ServiceNow AI Lens
+Field types supported
+ServiceNow AI Lens limitations
+Script include - AILensActionService
+Conversation Insights
+Exploring Conversation Insights
+Install Conversation Insights
+Conversation Insights reference
+Components installed with Conversation Insights
+Now Assist and Agentic AI glossary
+Additional resources for AI products and solutions
+Conversation Improvement Themes
+Exploring Conversation Improvement Themes
+Activating Conversation Improvement Themes
+Using Conversation Improvement Themes
+Reference for Conversation Improvement Themes
+Components installed with Conversation Improvement Themes
+Troubleshooting for Conversation Improvement Themes
+Home
+Zurich Enable AI
+Enable AI experiences
+Now Assist AI agents
+Model Context Protocol Client
+Configure Model Context Protocol Client
+Add an MCP server in AI Agent Studio
+Current page
+Table of Contents
+Add an
+MCP
+server in
+AI Agent Studio
+An
+MCP
+server hosts the APIs and tools required by an AI
+        application to receive and process calls from
+MCP
+clients.
+        The
+MCP
+server
+        governs ingress traffic and
+        promotes secure and efficient access to tools. Adding an
+MCP
+server in the
+AI Agent Studio
+helps you to leverage the
+Model Context Protocol
+as a tool
+        for an AI
+        agent.
+Connecting an
+MCP
+server with the
+AI Agent Studio
+simplifies the integration process, making it easier to discover and invoke services. This connection enhances security and governance, providing a streamlined setup experience for
+                administrators.
+Adding an
+MCP
+server requires you to add an
+MCP
+server in the
+AI Agent Studio
+. You can add an
+MCP
+server
+                with one of the following authentication options:
+OAuth 2.1
+: Add an
+MCP
+server with an authentication code. For more information, see
+Add an MCP server with OAuth 2.1
+.
+Note:
+You can configure an
+MID Server
+to connect with
+MCP Client
+by adding it as an MCP server through OAuth 2.1 configuration and selecting the
+Use MID server
+check box on the respective server's
+                            Connection and Credentials Aliases record. For more information about connecting
+MCP Client
+with an
+MID Server
+through Connection and Credentials Aliases, see
+Set up OAuth integration via MID Server
+.
+API Key
+: Add an
+MCP
+server with an API Key.
+Others
+: Add an
+MCP
+server manually by selecting a Connection and Credential Alias record.
+Note:
+You
+                    must authenticate the users with the
+MCP
+server to add the
+MCP
+tool to an AI agent.
+                    Without prior authentication, you can’t add the
+MCP
+servers.
+Was this topic helpful?
+Yes
+No
+Previous
+Install Model Context Protocol Client
+Next
+Add an MCP server with OAuth 2.1
+Previous
+Install Model Context Protocol Client
+Next
+Add an MCP server with OAuth 2.1
+Log in to get a better experience
+Log in
