@@ -27,7 +27,7 @@ PIP
    ```mkdir servicenow_scraper```
    
    ```cd servicenow_scraper``` (you're now running scripts and creating outputs from and to this folder.)
-5. That last line navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
+5. The previous command navigates you to the folder you just created. Now create a virtual environment from which to run your Python scripts.
 
    ```python3 -m venv venv```
    
