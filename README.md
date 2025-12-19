@@ -31,9 +31,10 @@ PIP
 
    ```python3 -m playwright install chromium```
    
-7. Run the "scraper" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
+7. Run the "scrape_servicenow_docs.py" script. You should see Chrome automatically open the various docs page while the terminal shows its progress. After the scraping is complete, you should see the folders and sub-folders with the scraped docs pages as individual text files.
 
    ```python3 scraper.py```
+   In lines 8 and 9, enter your starting URL and the base prefix for which to start navigating through the doc tree and scraping. 
 9. Replace the URL with the parent URL that you want to scrape. 
 10. Now we want to combine all these individual text files into one large text files. This is useful for when you want to use the text to be searchable or in an LLM project. Run the "combine" script.
 
